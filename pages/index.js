@@ -11,8 +11,15 @@ function HomePage() {
   );
 }
 
+export function getStaticProps() {
+  /**
+   * preredndering code
+   */
+}
+
 export default HomePage;
 
 /***
  * Prerendering code here
  */
+
